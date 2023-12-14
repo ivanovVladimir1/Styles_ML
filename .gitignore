@@ -1,3 +1,6 @@
 /Temp
 /Data
 /catboost_info
+/build
+/LightGBM
+/__pycache__
